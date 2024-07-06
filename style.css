@@ -1,0 +1,16 @@
+*{
+    background-color: #f7eaea;
+}
+header{
+    display: flex;
+    justify-content: space-around;
+    margin: 50px auto;
+    
+}
+.header-btn{
+    background-color: #0c6efd;
+    border: none;
+    padding: 4px 10px;
+    border-radius: 4px;
+    color: white;
+}
